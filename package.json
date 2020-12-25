@@ -26,6 +26,7 @@
     "gulp-sass": "^4.1.0",
     "gulp-sass-glob": "^1.1.0",
     "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-webp": "^4.0.1",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-pngquant": "^9.0.1",
     "ts-loader": "^8.0.11",
