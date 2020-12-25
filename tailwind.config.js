@@ -23,6 +23,9 @@ module.exports = {
         subBlue: "#6595ed",
         accBlue: "#def1f7",
         accent: "#ed8e01",
+      },
+      fontSize: {
+        tiny:"0.9375rem",
       }
     },
   },
