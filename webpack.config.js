@@ -1,5 +1,5 @@
 module.exports = {
-    mode: 'production', // development or production
+    mode: 'development', // development or production
     entry: './src/ts/index.ts',
     output: {
         path: `${__dirname}/dest/assets/js`,
