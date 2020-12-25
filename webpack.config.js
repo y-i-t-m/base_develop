@@ -2,7 +2,7 @@ module.exports = {
     mode: 'production', // development or production
     entry: './src/ts/index.ts',
     output: {
-        path: `${__dirname}/dest/js`,
+        path: `${__dirname}/dest/assets/js`,
         filename: "main.js"
       },
     module: {

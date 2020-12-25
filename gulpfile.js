@@ -31,15 +31,15 @@ const srcImgFileType = '{jpg,jpeg,png,gif,svg}';
 
 // ファイルパス：コンパイル後
 const destDir = './dest/';
-const destFiles = './dest/**/*';
+const destFiles = './dest//**/**/*';
 const destHtmlFiles = './dest/*.html';
 const destIndexHtml = 'index.html';
-const destCssDir = './dest/css';
-const destCssFiles = './dest/css/style.css';
-const destJsDir = './dest/js';
-const destJSFiles = './dest/js/*.js';
-const destImtDir = './dest/img';
-const destImgFiles = './dest/img/*';
+const destCssDir = './dest/assets/css';
+const destCssFiles = './dest/assets/css/style.css';
+const destJsDir = './dest/assets/js';
+const destJSFiles = './dest/assets/js/*.js';
+const destImtDir = './dest/assets/img';
+const destImgFiles = './dest/assets/img/*';
 
 
 // EJSコンパイル

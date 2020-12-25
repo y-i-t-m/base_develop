@@ -7,7 +7,7 @@
     "build": "webpack",
     "gulp": "gulp",
     "start": "gulp",
-    "css": "npx tailwindcss build src/styles/style.css -o dest/css/style.css",
+    "css": "npx tailwindcss build src/styles/style.css -o dest/assets/css/style.css",
     "build:css": "NODE_ENV=production npm run css"
   },
   "keywords": [],
